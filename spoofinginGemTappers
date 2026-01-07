@@ -1,4 +1,12 @@
-local flick = ""
-local flickgameid = ""
-local blindshot = ""
-local blindshotid = ""
+local Games = {
+    ["flick"] = {
+        Names = {"flick", "Flick"},
+        GameId = "1234567890"
+    },
+    ["blindshot"] = {
+        Names = {"blind shot", "Blind Shot", "blindshot", "BlindShot"},
+        GameId = "0987654321"
+    }
+}
+
+return Games
