@@ -8,7 +8,7 @@ local Games = {
         GameId = "118614517739521"
     },
     ["EscapeTsunamiForBrainrots"] = {
-        Names = {"EscapeTsunamiForBrainrots", "Escape Tsunami For Brainrots", "escapetsunamiforbrainrots", "escape tsunami for brainrots", "ETFB", "etfb}, "Eftb",
+        Names = {"EscapeTsunamiForBrainrots", "Escape Tsunami For Brainrots", "escapetsunamiforbrainrots", "escape tsunami for brainrots", "ETFB", "etfb", "Eftb"},
         GameId = "131623223084840"
     }
 }
