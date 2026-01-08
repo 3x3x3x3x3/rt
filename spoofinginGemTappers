@@ -1,7 +1,7 @@
 local Games = {
     ["flick"] = {
         Names = {"flick", "Flick"},
-        GameId = "1234567890"
+        GameId = "136801880565837"
     },
     ["blindshot"] = {
         Names = {"blind shot", "Blind Shot", "blindshot", "BlindShot"},
