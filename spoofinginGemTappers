@@ -1,11 +1,15 @@
 local Games = {
     ["flick"] = {
-        Names = {"flick", "Flick"},
+        Names = {"flick", "Flick", "FLICK"},
         GameId = "136801880565837"
     },
     ["blindshot"] = {
-        Names = {"blind shot", "Blind Shot", "blindshot", "BlindShot"},
-        GameId = "0987654321"
+        Names = {"blind shot", "Blind Shot", "blindshot", "BlindShot", "bs", "BS"},
+        GameId = "118614517739521"
+    },
+    ["EscapeTsunamiForBrainrots"] = {
+        Names = {"EscapeTsunamiForBrainrots", "Escape Tsunami For Brainrots", "escapetsunamiforbrainrots", "escape tsunami for brainrots", "ETFB", "etfb}, "Eftb",
+        GameId = "131623223084840"
     }
 }
 
