@@ -13,7 +13,7 @@ local Games = {
     },
     ["rivals"] = {
         Names = {"Rivals", "RIVALS", "rivals"},
-        GameId = 17625359962
+        GameId = 0
     }
 }
 
