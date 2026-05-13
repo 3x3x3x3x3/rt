@@ -10,6 +10,10 @@ local Games = {
     ["drivingempire"] = {
         Names = {"drivingempire", "driving empire", "DrivingEmpire", "Driving Empire", "DE", "de", "De"},
         GameId = "3351674303"
+    },
+    ["rivals"] = {
+        Names = {"Rivals", "RIVALS", "rivals"},
+        GameId = "17625359962"
     }
 }
 
