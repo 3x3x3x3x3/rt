@@ -19,6 +19,10 @@ local Games = {
         Names = {"bbl", "BBL", "Bbl", "basketballlegends", "BasketBallLegends", "BASKETBALLLEGENDS", "basket ball legends", "Basket Ball Legends", "BASKET BALL LEGENDS"},
         GameId = 0
     },
+    ["MM2"] = {
+        Names = {"MM2", "mm2", "MurderMystery2", "murdermystery2", "MURDERMYSTERY2", "Murder Mystery 2", "murder mystery 2", "MURDER MYSTERY 2"},
+        GameId = 142823291
+    },
 
 }
 
